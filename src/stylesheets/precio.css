@@ -1,0 +1,12 @@
+.contenedor-precio {
+    margin: 2rem;
+    padding: 1rem;
+    height: 50px;
+}
+
+.titulo-precio{
+    font-size: 30px;
+    color: #555E7B;
+    font-weight: 900;
+    text-transform: capitalize;
+}

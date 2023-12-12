@@ -1,0 +1,86 @@
+.titulo-formulario, .titulo-notFound{
+    font-size: 35px;
+    color: #555E7B;
+    padding: 2.5rem;
+    font-weight: 800;
+    text-align: center;
+}
+.subtitulo-form{
+    padding: 1.5rem;
+    font-size: 28px;    
+}
+.label-form {
+    margin: 1.2rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.titulo-label{
+    margin-top: 1rem;
+    padding-bottom: 3rem;
+}
+.formulario-datos {
+    margin: 1rem;
+    padding: 0.5rem;
+    width: 80%;
+    height: 2.5rem;
+    border-radius: 10px;
+    font-size: 20px;
+}
+option {
+    font-size: 15px;
+    background-color: bisque;
+}
+.label-form span{
+    font-size: 25px;
+    font-weight: 700;
+    color: #555E7B;
+}
+fieldset{
+    padding: 0.5rem;
+}
+
+/* botón */
+.contenedor-boton {
+    margin: 2rem;
+    padding: 0.5rem;
+    border-radius: 10px;
+    height: 50px;
+    width: 30%;
+    background-color: bisque;
+
+}
+.boton-cotizar{
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    padding: 0.25rem;
+    font-size: 25px;
+    color: #555E7B;
+    font-weight: 600;
+    box-sizing: border-box;
+    box-shadow: 0 0 0 0.10rem rgba(80, 20, 60, 5);
+}
+/* precio */
+.contenedor-precio {
+    margin: 2rem;
+    padding: 1rem;
+    height: 50px;
+}
+
+.titulo-precio{
+    font-size: 30px;
+    color: #555E7B;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+/*img notFound*/
+.contenedor-img{
+    width: 80%;
+    height: 580px;
+}
+.imagen-notFound{
+    height: 500px;
+    border-radius: 85px;
+}
+

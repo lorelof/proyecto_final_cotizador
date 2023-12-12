@@ -1,0 +1,11 @@
+.nav-menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    color: tan;
+    align-content: start;
+    font-size: 30px;
+    text-decoration: none;
+    cursor: pointer;
+}

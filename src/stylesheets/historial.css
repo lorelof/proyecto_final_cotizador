@@ -1,0 +1,28 @@
+.titulo-historial {
+    font-size: 30px;
+    font-weight: 800;
+    color: #555E7B;
+    margin: 1rem;
+    text-align: center;
+}
+.titulo-icono {
+    font-size: 30px;
+    color: #555E7B;
+    margin: 1rem;
+    text-align: center;
+}
+.contenedor-historial{
+    background-color: bisque;
+    border-radius: 15px;
+}
+.ul-historial {
+    margin: 2rem;
+}
+.li-historial{
+    margin: 2.5rem;
+    list-style-type: none;
+}
+.li-historial h4 {
+    font-size: 22px;
+    margin: 0.5rem;
+}
